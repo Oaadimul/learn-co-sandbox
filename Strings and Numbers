@@ -1,0 +1,3 @@
+var nameSelector = document.querySelector('#name')
+
+var heightSelector = document.querySelector ('#height')
